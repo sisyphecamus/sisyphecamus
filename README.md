@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming,reading books and coding.
 - 🌱 I’m currently learning C and Cpp.(I'm new to here.)
 - 💞️ I’m looking to collaborate on some weird ideas.
-- 📫 How to reach me :e-mail adress 2024302111132@@whu.edu.cn
+- 📫 How to reach me :e-mail adress 2024302111132@whu.edu.cn
 - ⚡ Fun fact: English is my second language.I still need to make great effort to learn it.
 - Let's make friends right now !Welcome.
 
