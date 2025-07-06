@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sisyphecamus
 - 👀 I’m interested in gaming,reading books and coding.
-- 🌱 I’m currently learning C and Cpp.(I'm new to here.)
+- 🌱 I’m currently learning ML 2022 spring and Harvard CS50ai
 - 💞️ I’m looking to collaborate on some weird ideas.
 - 📫 How to reach me :e-mail adress yimengliu@whu.edu.cn
 - ⚡ English is my second language and I still need to make great effort to learn it.
